@@ -1,0 +1,7 @@
+C:\Users\Mauricio\documents\visual studio 2012\Projects\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\documents\visual studio 2012\Projects\TP4\Entidades\bin\Debug\correo-sp-2017.sdf
+C:\Users\Mauricio\documents\visual studio 2012\Projects\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Mauricio\documents\visual studio 2012\Projects\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mauricio\documents\visual studio 2012\Projects\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mauricio\documents\visual studio 2012\Projects\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mauricio\documents\visual studio 2012\Projects\TP4\Entidades\obj\Debug\Entidades.pdb
